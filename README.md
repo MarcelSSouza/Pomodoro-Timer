@@ -1,7 +1,7 @@
 # Pomodoro Timer
 > A simple application that shows a pomodoro-timer. Now you can manage your time with a low-size web app.
 
-![Images of the app](./main1.png)
+![Images of the app](./pomodoro-timer/main1.png)
 
 ## Installation
  Just download the main folder and start the file index.html using your best browser.
