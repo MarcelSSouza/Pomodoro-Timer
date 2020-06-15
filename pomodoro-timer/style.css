@@ -1,0 +1,70 @@
+
+body {
+  background: #f0fff3;
+  font-family: "Pacifico";
+}
+
+.heading {
+  color: #11cbd7;
+  font-size: 3rem;
+}
+
+.timer {
+  color: #ffffff;
+  text-align: center;
+  width: 20rem;
+  height: 10rem;
+  border: 5px solid #fff;
+  border-radius: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fa4659;
+  -webkit-box-shadow: -15px 16px 10px -3px rgba(0,0,0,0.75);
+  -moz-box-shadow: -15px 16px 10px -3px rgba(0,0,0,0.75);
+  box-shadow: -12px 10px 10px -3px rgba(0,0,0,0.75);
+}
+
+.row {
+  width: 100%;
+}
+
+.btn {
+  padding: 0;
+}
+.fa-play,
+.fa-redo-alt {
+  color: #11cbd7;
+  border: 2px solid transparent;
+  padding: 1rem;
+  border-radius: 2rem;
+}
+
+.fa-play:hover,
+.fa-redo-alt:hover {
+  color: #bae8e8;
+  border: 2px solid #bae8e8;
+  transition: 0.3s ease;
+}
+
+.show_message {
+  display: block;
+  padding: 1rem 0;
+  color: #272343;
+  background: #e3f6f5;
+  border-radius: 0.5rem;
+  transition: 0.5s ease;
+}
+
+h4{
+  font-size: 3rem;
+}
+
+.dot{
+  color: #f0fff3;
+}
+
+.footer-copyright{
+  font-family: Verdana;
+  color: #11cbd7;
+}
